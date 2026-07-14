@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "id": "did:web:dharanidharan-s-04.github.io:mosipid-did:sunbird",
+  "alsoKnownAs": [
+    "sunbird"
+  ],
+  "verificationMethod": [
+    {
+      "id": "did:web:dharanidharan-s-04.github.io:mosipid-did:sunbird#key-0",
+      "type": "Ed25519VerificationKey2020",
+      "controller": "did:web:dharanidharan-s-04.github.io:mosipid-did:sunbird",
+      "publicKeyMultibase": "z6MkutTBTMYckHcwvaSa8dio5MeWEREwp9jM5SB5zcM1M6Q7"
+    }
+  ],
+  "authentication": [
+    "did:web:dharanidharan-s-04.github.io:mosipid-did:sunbird#key-0"
+  ],
+  "assertionMethod": [
+    "did:web:dharanidharan-s-04.github.io:mosipid-did:sunbird#key-0"
+  ]
+}
