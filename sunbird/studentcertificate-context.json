@@ -16,7 +16,7 @@
     "institutionName": "schema:Organization",
     "program": "schema:Text",
     "certificateType": "schema:Text",
-    "grade": "schema:Number",
+    "grade": "schema:Text",
     "issueDate": "schema:Date",
     "validUpto": "schema:Date",
 
