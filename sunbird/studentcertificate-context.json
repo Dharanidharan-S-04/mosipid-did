@@ -21,7 +21,6 @@
     "validUpto": "schema:Date",
 
     "dateOfBirth": "schema:Date",
-    "osid": "schema:identifier",
     "batchYear": "schema:Text",
     "certificateKey": "schema:identifier",
     "status": "schema:Text",
@@ -29,7 +28,6 @@
     "issuedBy": {
       "@id": "schema:creator",
       "@context": {
-        "osid": "schema:identifier",
         "signature": "schema:Text",
         "name": "schema:name",
         "designation": "schema:jobTitle"
