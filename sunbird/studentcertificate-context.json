@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
+    "schema": "https://schema.org/",
+    "StudentCertificate": {
+      "@id": "https://dharanidharan-s-04.github.io/mosipid-did/contexts/studentcertificate-context.json#StudentCertificate"
+    },
+    "studentId": "schema:identifier",
+    "studentName": "schema:name",
+    "institutionName": "schema:Organization",
+    "program": "schema:Text",
+    "certificateType": "schema:Text",
+    "grade": "schema:Number",
+    "issueDate": "schema:Date",
+    "validUpto": "schema:Date"
+  }
+}
