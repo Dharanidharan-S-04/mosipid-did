@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+
+    "type": "@type",
+    "schema": "https://schema.org/",
+
+    "StudentCertificate": {
+      "@id": "https://dharanidharan-s-04.github.io/mosipid-did/sunbird/studentcertificate-context.json#StudentCertificate"
+    },
+
+    "studentId": "schema:identifier",
+    "studentName": "schema:name",
+    "institutionId": "schema:identifier",
+    "institutionName": "schema:Organization",
+    "program": "schema:Text",
+    "certificateType": "schema:Text",
+    "grade": "schema:Number",
+    "issueDate": "schema:Date",
+    "validUpto": "schema:Date",
+
+    "dateOfBirth": "schema:Date",
+    "osid": "schema:identifier",
+    "batchYear": "schema:Text",
+    "certificateKey": "schema:identifier",
+    "status": "schema:Text",
+
+    "issuedBy": {
+      "@id": "schema:creator",
+      "@context": {
+        "osid": "schema:identifier",
+        "signature": "schema:Text",
+        "name": "schema:name",
+        "designation": "schema:jobTitle"
+      }
+    }
+  }
+}
