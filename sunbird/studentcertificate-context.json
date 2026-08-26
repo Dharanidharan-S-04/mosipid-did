@@ -23,15 +23,6 @@
     "dateOfBirth": "schema:Date",
     "batchYear": "schema:Text",
     "certificateKey": "schema:identifier",
-    "status": "schema:Text",
-
-    "issuedBy": {
-      "@id": "schema:creator",
-      "@context": {
-        "signature": "schema:Text",
-        "name": "schema:name",
-        "designation": "schema:jobTitle"
-      }
-    }
+    "status": "schema:Text"
   }
 }
