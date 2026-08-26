@@ -5,7 +5,7 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "StudentCertificate": {
-      "@id": "https://dharanidharan-s-04.github.io/mosipid-did/contexts/studentcertificate-context.json#StudentCertificate"
+      "@id": "https://dharanidharan-s-04.github.io/mosipid-did/sunbird/studentcertificate-context.json#StudentCertificate"
     },
     "studentId": "schema:identifier",
     "studentName": "schema:name",
