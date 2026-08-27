@@ -23,6 +23,9 @@
     "dateOfBirth": "schema:Date",
     "batchYear": "schema:Text",
     "certificateKey": "schema:identifier",
-    "status": "schema:Text"
+    "status": "schema:Text",
+    "issuerName": "schema:name",
+    "issuerDesignation": "schema:Text",
+    "issuerSignature": "schema:URL"
   }
 }
