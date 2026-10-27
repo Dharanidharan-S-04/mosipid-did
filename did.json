@@ -1,0 +1,23 @@
+{
+  "assertionMethod": [
+    "did:web:dharanidharan-s-04.github.io:mosipid-did"
+  ],
+  "service": [],
+  "id": "did:web:dharanidharan-s-04.github.io:mosipid-did",
+  "verificationMethod": [
+    {
+      "controller": "did:web:dharanidharan-s-04.github.io:mosipid-did",
+      "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs84lDtkURarBylXQffzu\nBHHl6jQOWUAYpxI3Fx+KKiMYmhRwA4g9kKKKRci5bz2CoIMV3ztMHSs1vt3dVVQH\nMCzBerstUhuBZwzLYa7elu3Hjp+yrKZ0Cqpc2HETP+ieRLD+UMxuwPnEgrl7pjvS\n7gxWPvA5tszpMSXUth0VRt/OwrrzUuFOkTs4FSNzUuy6XzyWwFgOiWWlnFnR3FOX\nwMxxd7FyBLpqnBJA1YaP5EZkbY44ksiCgS6CDGYV4iw9GL21fX6Dfl/w6WJYYLiy\niiXjy8KarGItGjY+NeQV/GWe3urmJYRem8PLSokKfbGuePW1gK9/L7dA3FEpl2C8\nIwIDAQAB\n-----END PUBLIC KEY-----",
+      "id": "did:web:dharanidharan-s-04.github.io:mosipid-did#ozFd0XG-xZBmYVYQh436iJXOF7BhIJhbDhSZV-Jo3i4",
+      "type": "RsaVerificationKey2018",
+      "@context": "https://w3id.org/security/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:dharanidharan-s-04.github.io:mosipid-did"
+  ]
+}
