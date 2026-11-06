@@ -9,6 +9,17 @@
             ],
             "validFrom": "2026-01-01T00:00:00Z",
             "validUntil": null
+        },
+        {
+            "id": "did:web:dharanidharan-s-04.github.io:mosipid-did:sunbird:b6dfbffd-7284-4241-b8fc-1a2823a41f95",
+            "name": "Sunbird Insurance",
+            "status": "active",
+            "credentialTypes": [
+                "InsuranceCredential",
+                "LifeInsuranceCredential"
+            ],
+            "validFrom": "2026-01-01T00:00:00Z",
+            "validUntil": null 
         }
     ]
 }
