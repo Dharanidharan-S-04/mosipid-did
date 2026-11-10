@@ -20,6 +20,17 @@
             ],
             "validFrom": "2026-01-01T00:00:00Z",
             "validUntil": null 
+        },
+        {
+            "id": "did:web:injicertify-g2p.technodemo.idencode.link",
+            "name": "G2p",
+            "status": "active",
+            "credentialTypes":[
+                "OpenG2PFarmerCredential",
+                "OpenG2PCropCredential"
+            ],
+            "validFrom": "2026-01-01T00:00:00Z",
+            "validUntil": null
         }
     ]
 }
